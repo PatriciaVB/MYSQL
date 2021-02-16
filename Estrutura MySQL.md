@@ -1,2 +1,0 @@
-# MYSQL
-Estrutura SQL
